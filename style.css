@@ -1,0 +1,149 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 110px;
+}
+.skip-diet{
+    width: 50%;
+    padding-left: 5%;
+}
+.skip-diet img{
+    width: 90%;
+}
+.skip-diet h1{
+    font-size: 56px;
+    color: rgb(71, 70, 70);
+}
+.skip-diet p{
+    color: dimgray;
+    font-size: 20px;
+}
+.target-button{
+    text-decoration: none;
+    background-image: linear-gradient(to top right, orange, #ff4500);
+    color: white;
+    font-weight: 900;
+    padding: 15px 35px;
+    border-radius: 100px;
+}
+.about-me{
+    background-image: url(images/about-bg.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+}
+#about-female img{
+    width: 66%;
+}
+.about-blog{
+    padding-top: 5%;
+    padding-right: 5%;
+}
+.about-blog h2{
+    font-size: 36px;
+    color: rgb(71, 70, 70);
+}
+.all-recipies{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+.all-recipies h2{
+    font-size: 36px;
+    color: rgb(71, 70, 70);
+}
+.all-recipies p{
+    color: dimgray;
+    font-size: 20px;
+}
+.all-foods{
+    box-shadow: 5px 7px 40px gray;
+    margin: 10px 20px;
+    padding-top: 18px;
+    border-radius: 20px;
+}
+.food-items img{
+    width: 90%;
+    padding-left: 5%;
+}
+.food-items h3{
+    width: 90%;
+    padding-left: 5%;
+}
+.food-items p{
+    width: 90%;
+    padding-left: 5%;
+    padding-bottom: 10px;
+}
+.subscribe-container h2{
+    text-align: center;
+    color: dimgray;
+    font-size: 36px;
+}
+.mail-password{
+    text-align: center;
+    padding-bottom: 95px;
+}
+.mail-password input{
+    padding: 15px 80px;
+    font-size: 20px;
+}
+#log-in-button{
+    padding: 15px 170px;
+    font-size: 20PX;
+    font-weight: 700;
+    color: white;
+    background-color: orangered;
+    border: none;
+    cursor: pointer;
+}
+.contact-container h2{
+    text-align: center;
+    font-size: 36px;
+}
+.deep-orange{
+    color: orangered;
+}
+.info-container{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    text-align: left;
+    padding-bottom: 80px;
+}
+.info-box{
+    box-shadow: 5px 7px 40px gray;
+    margin: 10px 20px;
+    padding: 25px 20px;
+    width: 210px;
+    height: 120px;
+    border-radius: 8px;
+}
+.info-box h3{
+    margin: 0;
+    font-size: 26px;
+    font-weight: 500;
+}
+footer{
+    background-color: #040707;
+}
+.food-foot{
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.food-foot h2{
+    color: rgb(73, 69, 69);
+    text-align: center;
+    font-size: 36px;
+}
+.food-foot p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
